@@ -1,9 +1,10 @@
 <img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-# Hello!, I'm Abhishek Prajapati
+# Hello! 👋🏼
+# I'm Abhishek Prajapati
 # Full-Stack Developer @ Java & Node.js
 # Competitive Coder @ Codeforces & CodeChef & LeetCode
-# Specialist in C/C++ & Java & JavaScript 👋🏼:
+# Specialist in C/C++ & Java & JavaScript
 🛜 currently working on my own [webpage](facezone.onrender.com)<br>👨🏼‍🎓 studying media based computer science at Chaudhary Charan Singh University, Meerut<br>👨🏼‍💻 Full-Stack Developer <br>
 
 
