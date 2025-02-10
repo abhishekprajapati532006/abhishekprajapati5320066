@@ -1,5 +1,5 @@
-<div style="display: flex; align-items: cen ter;">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif" width="300"/>
+<div style="display: flex; align-items: center;">
+  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif" width="400"/>
   <div style="margin-left: 20px;">
     <h4>Hi there! 👋</h4>
     <p>I'm Abhishek Prajapatt, a <b>Full-Stack Developer</b> and <b>Competitive Programmer</b> from India.</p>
