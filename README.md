@@ -1,16 +1,6 @@
-<div style="display: flex; align-items: center;">
-  <img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif" width="200"/>
-  <div style="margin-left: 20px;">
-    <h4>Hi there! 👋</h4>
-    <p>I'm Abhishek Prajapatt, a <b>Full-Stack Developer</b> and <b>Competitive Programmer</b> from India.</p>
-    <ul>
-      <li><b>Expertise:</b> C/C++, Java, JavaScript</li>
-      <li>Passionate about writing clean, efficient, and scalable code.</li>
-      <li>Constantly learning and adapting to new technologies.</li>
-      <li>Problem-solver who enjoys tackling challenges through code.</li>
-    </ul>
-  </div>
-</div>
+<br clear="both">
+
+<h6 align="left">Hi there! 👋<br>I'm Abhishek Prajapatt, a Full-Stack Developer and Competitive Programmer from India.<br><br>🔹 Expertise: C/C++, Java, JavaScript<br>🔹 Passionate about writing clean, efficient, and scalable code.<br>🔹 Constantly learning and adapting to new technologies.<br>🔹 Problem-solver who enjoys tackling challenges through code.</h6>
 
 ###
 
