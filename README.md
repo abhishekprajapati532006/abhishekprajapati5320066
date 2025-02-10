@@ -1,6 +1,5 @@
-https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif
+<img src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif" width="400"/>
 ###
-
 <br clear="both">
 
 <h4 align="left">Hi there! 👋<br>I'm Abhishek Prajapatt, a Full-Stack Developer and Competitive Programmer from India.<br><br>🔹 Expertise: C/C++, Java, JavaScript<br>🔹 Passionate about writing clean, efficient, and scalable code.<br>🔹 Constantly learning and adapting to new technologies.<br>🔹 Problem-solver who enjoys tackling challenges through code.</h4>
