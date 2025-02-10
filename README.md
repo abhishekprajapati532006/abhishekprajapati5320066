@@ -1,8 +1,4 @@
-<img src="https://i.pinimg.com/736x/5b/0f/1a/5b0f1a39f93972ea6e2fc4ee9da1273a.jpg" alt="GitHub Banner" width="100%" />
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/5b/0f/1a/5b0f1a39f93972ea6e2fc4ee9da1273a.jpg"  />
-</div>
-
+https://raw.githubusercontent.com/Elanza-48/Elanza-48/41a4790484e268102dfdab2b7c59d440d3ffafab/resources/img/coders-prog.gif
 ###
 
 <br clear="both">
