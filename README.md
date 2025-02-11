@@ -1,5 +1,5 @@
 <br clear="both">
-<p align="left">Hi guys! 👋<br>I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Coder</b> from <b>India</b>.<br>  🧑‍💻 Expertise: <b>C/C++</b>, <b>Java</b>, <b>JavaScript</b><br>  🛠️ Passionate about writing <b>clean</b>, efficient, and <b>scalable code</b>.<br>  🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>  🧩 Problem-solving <b>enthusiast</b>, turning <b>logic</b> into code.</p>
+<p align="left">Hi guys! 👋<br>I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Coder</b> from <b>India</b>.<br>  🏎️ Expertise: <b>C/C++</b>, <b>Java</b>, <b>JavaScript</b><br>  🛠️ Passionate about writing <b>clean</b>, efficient, and <b>scalable code</b>.<br>  🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>  🧩 Problem-solving <b>enthusiast</b>, turning <b>logic</b> into code.</p>
 
 ###
 
@@ -35,7 +35,7 @@
 <br clear="both">
 <h2 align="left">⚡ Currently Learning</h2>
 
-<h4 align="left">Actively developing expertise in programming languages and frameworks through hands-on experience.</h4>
+<h4 align="left">🏎️ Actively developing expertise in programming languages and frameworks through hands-on experience.</h4>
 <br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
