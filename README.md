@@ -1,5 +1,5 @@
 <br clear="both">
-<p align="left">Hi there! 👋<br>I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Programmer</b> from India.<br><br> 🧑‍💻 Expertise: C/C++, Java, JavaScript<br> 🛠️ Passionate about writing clean, efficient, and scalable code.<br>🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>🧩 Problem-solving enthusiast, turning <b>logic</b> into code.</p>
+<p align="left">Hi guys! 👋<br>I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Coder</b> from India.<br><br> 🧑‍💻 Expertise: <b>C/C++</b>, <b>Java</b>, <b>JavaScript</b><br> 🛠️ Passionate about writing <b>clean</b>, efficient, and <b>scalable code</b>.<br>🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>🧩 Problem-solving <b>enthusiast</b>, turning <b>logic</b> into code.</p>
 
 ###
 
