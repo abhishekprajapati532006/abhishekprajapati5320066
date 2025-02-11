@@ -35,7 +35,7 @@
 <br clear="both">
 <h2 align="left">Currently Learning</h2>
 
-<h4 align="left">Actively developing expertise in programming languages and frameworks through hands-on experience.</h4>
+<h4 align="left">⚡ Actively developing expertise in programming languages and frameworks through hands-on experience.</h4>
 <br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -56,7 +56,7 @@
 ###
 
 <br clear="both">
-<h2 align="left">Tech Stack :</h2>
+<h2 align="left">🔭 Tech Stack :</h2>
 
 ###
 
@@ -154,21 +154,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhishekprajapati2006/abhishekprajapatt/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/abhishekprajapati2006/abhishekprajapatt/blob/output/github-snake.svg" />
 </picture>
-- 🔭 I’m currently working on [Face Zone](https://github.com/abhishekprajapati2006/FaceZone)
-
-- 🌱 I’m currently learning **Java, Spring Boot, Apache Kafka, MySQL, AWS, Docker**
-
-- 👨‍💻 All of my projects are available at [https://github.com/abhishekprajapati2006?tab=repositories](https://github.com/abhishekprajapati2006?tab=repositories)
-
-- 📝 I regularly write articles on [https://www.linkedin.com/in/abhishek-p-801187293/](https://www.linkedin.com/in/abhishek-p-801187293/)
-
-- 💬 Ask me about **Full Stack in Node.js and Java**
-
-- 📫 How to reach me **prajapatiabhishek13988@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/19mgOACn6uvK5xW_NbPx4UTCNwhfCNY-4/view](https://drive.google.com/file/d/19mgOACn6uvK5xW_NbPx4UTCNwhfCNY-4/view)
-
-- ⚡ Fun fact **⚡ I can write code faster than I reply to texts ⚡ I once fixed a bug just by looking at the screen ⚡ I explain things better with memes**
 
 ###
 <picture>
