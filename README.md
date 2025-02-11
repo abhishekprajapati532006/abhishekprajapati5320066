@@ -5,7 +5,7 @@
 
 <br clear="both">
 
-<h2 align="left">Social Media</h2>
+<h2 align="left">🌐 Social Media</h2>
 
 ###
 
@@ -33,9 +33,9 @@
 
 ###
 <br clear="both">
-<h2 align="left">Currently Learning</h2>
+<h2 align="left">⚡ Currently Learning</h2>
 
-<h4 align="left">⚡ Actively developing expertise in programming languages and frameworks through hands-on experience.</h4>
+<h4 align="left">Actively developing expertise in programming languages and frameworks through hands-on experience.</h4>
 <br clear="both">
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -147,13 +147,6 @@
   <img width="16" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
 </div>
-
-###
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhishekprajapati2006/abhishekprajapatt/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhishekprajapati2006/abhishekprajapatt/blob/output/github-snake.svg" />
-  <img alt="github-snake" src="https://github.com/abhishekprajapati2006/abhishekprajapatt/blob/output/github-snake.svg" />
-</picture>
 
 ###
 <picture>
