@@ -32,8 +32,9 @@
 
 
 ###
-
+<br clear="both">
 <h2 align="left">Currently Learning</h2>
+
 <h4 align="left">Actively developing expertise in programming languages and frameworks through hands-on experience.</h4>
 <br clear="both">
 <div align="left">
