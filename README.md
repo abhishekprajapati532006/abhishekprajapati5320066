@@ -154,6 +154,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhishekprajapati2006/abhishekprajapatt/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/abhishekprajapati2006/abhishekprajapatt/blob/output/github-snake.svg" />
 </picture>
-
-![image](https://github.com/user-attachments/assets/445005ab-0e8f-40ad-ab66-8c3a18769ef7)
-
