@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/f7c01351-7f0f-4df3-83fd-dc036ed487c8)
 <br clear="both">
 <p align="left">Hi Guys! 👋<br>I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Coder</b> from <b>India</b>.<br>  🧑‍💻 Expertise: <b>C/C++</b>, <b>Java</b>, <b>JavaScript</b><br>  🛠️ Passionate about writing <b>clean</b>, efficient, and <b>scalable code</b>.<br>  🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>  🧩 Problem-solving <b>enthusiast</b>, turning <b>logic</b> into code. <br> 🦁 <b>Proficient</b> in <b>Node.js</b> & <b>Java</b> <b>Full-Stack Development</b>.<br> 🤝 <b>Open</b> to <b>collaboration</b> on <b>projects—feel</b> free to <b>connect</b>. </p>
 
@@ -155,3 +154,6 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhishekprajapati2006/abhishekprajapatt/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/abhishekprajapati2006/abhishekprajapatt/blob/output/github-snake.svg" />
 </picture>
+
+![image](https://github.com/user-attachments/assets/445005ab-0e8f-40ad-ab66-8c3a18769ef7)
+
