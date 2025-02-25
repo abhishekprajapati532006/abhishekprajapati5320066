@@ -1,6 +1,6 @@
 <br clear="both">
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Welcome+to+my+Profile!+✨;I'm+Divyansh+Sharma!;A+Passionate+Developer;From+India+🇮🇳" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=2000&lines=Hi Guys! 👋!;I'm+Abhishek Prajapatt!;A+Full-Stack Developer+Competitive Coder;From+India+🇮🇳" />
 </h1>
 
 <div align="center">
