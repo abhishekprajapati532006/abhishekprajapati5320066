@@ -78,6 +78,20 @@
 ### **Tools & Platforms:** 
 ![VSCode](https://skillicons.dev/icons?i=vscode) ![Intellijidea](https://skillicons.dev/icons?i=idea) ![Github](https://skillicons.dev/icons?i=github) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman) ![Jest](https://skillicons.dev/icons?i=jest) ![Figma](https://skillicons.dev/icons?i=figma) ![Wordpress](https://skillicons.dev/icons?i=wordpress) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /> 
 
+## 📊 GitHub Stats & Activity  
+
+<table align="center">
+  <tr>
+      <td colspan="2" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekprajapatt&theme=github_dark" />
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com?user=abhishekprajapatt&theme=tokyonight&hide_border=true" />
+    </td>
+    
+  </tr>
+</table>
+
 ## 🔥 GitHub Activity  
 ![github-activity](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekprajapatt&theme=github_dark)
 
@@ -88,3 +102,23 @@
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake.svg" />
   <img alt="github-snake" src="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake.svg" />
 </picture>
+
+## 🏆 LeetCode Stats  
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://leetcard.jacoblin.cool/abhishekprajapatt?theme=dark&font=Karma" alt="LeetCode Stats" />
+    </td>
+    <td>
+      
+  <img src="https://leetcard.jacoblin.cool/abhishekprajapatt?theme=dark&font=Karma&ext=contest" alt="LeetCode Contest Graph" />
+
+    </td>
+    <td>
+      <a href="https://leetcode.com/abhishekprajapatt/">
+        <img src="https://leetcode-badge-showcase.vercel.app/api?username=abhishekprajapatt" alt="LeetCode Heatmap"/>
+      </a>
+    </td>
+  </tr>
+</table>
