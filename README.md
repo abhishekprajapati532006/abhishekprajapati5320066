@@ -1,7 +1,7 @@
 <p align="left">Hi Guys! 👋<br>I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Coder</b> from <b>India</b>.<br>  🧑‍💻 Expertise: <b>C/C++</b>, <b>Java</b>, <b>JavaScript</b><br>  🛠️ Passionate about writing <b>clean</b>, efficient, and <b>scalable code</b>.<br>  🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>  🧩 Problem-solving <b>enthusiast</b>, turning <b>logic</b> into code. <br> 🦁 <b>Proficient</b> in <b>Node.js</b> & <b>Java</b> <b>Full-Stack Development</b>.<br> 🤝 <b>Open</b> to <b>collaboration</b> on <b>projects—feel</b> free to <b>connect</b>. </p>
 
 <br clear="both">
-<h2 align="left">🌐 Social Media</h2>
+<h2 align="left">🌐 Contact Me</h2>
 
 ###
 
@@ -17,12 +17,6 @@
   </a>
   <a href="https://www.instagram.com/abhishekprajapatt/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/24832311/abhishek-prajapati" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/prajapatiabhish6" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="52" height="40" alt="hackerrank logo"  />
   </a>
 </div>
 
