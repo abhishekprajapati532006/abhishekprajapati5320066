@@ -64,7 +64,7 @@
 
 <br clear="both">
 
-## 📊 GitHub Stats & Activity  
+## 📊 GitHub Activity  
 
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekprajapatt&theme=github_dark" />
   
