@@ -1,9 +1,27 @@
-<br clear="both">
-<div align="center">
-    <img align="center" alt="Coding Vibes" width="fu ll" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
-</div>
+<h1 align="center">Hii Guys 👋, I'm Abhishek Prajapatt</h1>
+<h3 align="center">A Passionate Full-Stack Developer & Competitive Coder from India</h3>
 
-<p align="left">Hi Guys! 👋<br>I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Coder</b> from <b>India</b>.<br>  🧑‍💻 Expertise: <b>C/C++</b>, <b>Java</b>, <b>JavaScript</b><br>  🛠️ Passionate about writing <b>clean</b>, efficient, and <b>scalable code</b>.<br>  🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>  🧩 Problem-solving <b>enthusiast</b>, turning <b>logic</b> into code. <br> 🦁 <b>Proficient</b> in <b>Node.js</b> & <b>Java</b> <b>Full-Stack Development</b>.<br> 🤝 <b>Open</b> to <b>collaboration</b> on <b>projects—feel</b> free to <b>connect</b>. </p>
+<br clear="both">
+<table align="center">
+  <tr>
+    <td colspan="2" align="center">
+        <div align="center">
+            <img align="center" alt="Coding Vibes" width="450" height="300" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
+        </div>
+    </td>
+    <td>
+        
+ ## 🦁 About Me  
+- 🧑‍💻 **Expertise:** C++ , Java, JavaScript
+- 🔥 Passionate about writing **clean**, efficient, and **scalable code**.
+- 🌱 Lifelong **learner**, exploring new **technologies**
+- 🧩 Problem-solving **enthusiast**, turning **logic** into code. 
+- 🦁 Proficient in **Node.js** & **Java** **Full-Stack Development**. 
+- 🤝 Open to **collaborations** on **projects—feel** free to **connect**.   
+
+    </td>
+  </tr>
+</table>
 
 ###
 
