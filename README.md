@@ -62,7 +62,7 @@
 ## 🔭 Tech Stack  
 
 ### **💻 Programming Languages:**  
- ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) 
+ ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
  
 ### **🌐 Frontend:**  
 ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Electron](https://skillicons.dev/icons?i=electron) ![Vite](https://skillicons.dev/icons?i=vite) ![Vue.js](https://skillicons.dev/icons?i=vue) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Webpack](https://skillicons.dev/icons?i=webpack) ![Css](https://skillicons.dev/icons?i=css) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) 
