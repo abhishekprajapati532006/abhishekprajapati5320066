@@ -2,12 +2,12 @@
 <p align="left">Hi Guys! 👋<br>I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Coder</b> from <b>India</b>.<br>  🧑‍💻 Expertise: <b>C/C++</b>, <b>Java</b>, <b>JavaScript</b><br>  🛠️ Passionate about writing <b>clean</b>, efficient, and <b>scalable code</b>.<br>  🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>  🧩 Problem-solving <b>enthusiast</b>, turning <b>logic</b> into code. <br> 🦁 <b>Proficient</b> in <b>Node.js</b> & <b>Java</b> <b>Full-Stack Development</b>.<br> 🤝 <b>Open</b> to <b>collaboration</b> on <b>projects—feel</b> free to <b>connect</b>. </p>
 
 <br clear="both">
-<h2 align="left">🌐 Contact Me</h2>
+<h2 align="left">🌐 Problem Solver:</h2>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/abhishek-p-801187293/" target="_blank">
+<!--   <a href="https://www.linkedin.com/in/abhishek-p-801187293/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/AbhishekPr41787" target="_blank">
@@ -18,7 +18,7 @@
   </a>
   <a href="https://www.instagram.com/abhishekprajapatt/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
+  </a> -->
   <a href="https://www.leetcode.com/AbhishekPrajapatt" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AbhishekPrajapatt"  width="52" height="40" />
   </a>
