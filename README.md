@@ -19,6 +19,22 @@
   <a href="https://www.instagram.com/abhishekprajapatt/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
+  <a href="https://www.leetcode.com/AbhishekPrajapatt" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="AbhishekPrajapatt" height="40" width="60" />
+  </a>
+  <a href="https://codeforces.com/profile/abhishekprajapati2006" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abhishekprajapati2006" height="40" width="60" />
+  </a>
+  <a href="https://www.hackerrank.com/prajapatiabhish6" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="prajapatiabhish6" height="40" width="60" />
+  </a>
+  <a href="https://www.hackerearth.com/debraj das" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="AbhishekPrajapatt" height="40" width="60" />
+  </a>
+  <a href="https://auth.geeksforgeeks.org/user/abhishekprajapatt2006" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="abhishekprajapatt2006" height="40" width="60" />
+  </a>
+
 </div>
 
 
