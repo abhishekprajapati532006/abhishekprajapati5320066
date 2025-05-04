@@ -2,7 +2,7 @@
 <p align="left">Hi Guys! 👋<br>I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Coder</b> from <b>India</b>.<br>  🧑‍💻 Expertise: <b>C/C++</b>, <b>Java</b> & <b>JavaScript</b><br>  🛠️ Passionate about writing <b>clean</b>, efficient, and <b>scalable code</b>.<br>  🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>  🧩 Problem-solving <b>enthusiast</b>, turning <b>logic</b> into code. <br> 🦁 <b>Proficient</b> in <b>Node.js</b> & <b>Java</b> <b>Full-Stack Development</b>.<br> 🤝 <b>Open</b> to <b>collaboration</b> on <b>projects—feel</b> free to <b>connect</b>. </p>
 
 <br clear="both">
-<h2 align="left">🌐 Problem Solver</h2>
+<h2 align="left">🌐 Competitive Coder</h2>
 
 ###
 
