@@ -58,11 +58,11 @@
 ###
 
 ---
-
+<!--
 ## 🔭 Tech Stack  
 
 ### **💻 Programming Languages:**  
- ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+ ![C++](https://skillicons.dev/icons?i=cpp) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /> <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
  
 ### **🌐 Frontend:**  
 ![React](https://skillicons.dev/icons?i=react) ![Redux](https://skillicons.dev/icons?i=redux) ![Electron](https://skillicons.dev/icons?i=electron) ![Vite](https://skillicons.dev/icons?i=vite) ![Vue.js](https://skillicons.dev/icons?i=vue) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Webpack](https://skillicons.dev/icons?i=webpack) ![Css](https://skillicons.dev/icons?i=css) ![TailwindCSS](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![JavaScript](https://skillicons.dev/icons?i=js) ![TypeScript](https://skillicons.dev/icons?i=ts) 
@@ -71,7 +71,8 @@
 ![Java](https://skillicons.dev/icons?i=java) ![Spring Boot](https://skillicons.dev/icons?i=spring) ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![Kafka](https://skillicons.dev/icons?i=kafka) <img src="https://cdn.simpleicons.org/apache/D22128" height="40" alt="apache logo"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" alt="Socket.io" style="width:40px; height:40px;"/>
  
 ### **📦 Databases:**  
-![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Firebase](https://skillicons.dev/icons?i=firebase) <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  /> ![Prisma](https://skillicons.dev/icons?i=prisma)
+<!-- ![MySQL](https://skillicons.dev/icons?i=mysql) 
+![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![Firebase](https://skillicons.dev/icons?i=firebase) <img src="https://cdn.simpleicons.org/npm/CB3837" height="50" alt="npm logo"  /> ![Prisma](https://skillicons.dev/icons?i=prisma)
 
 ### **☁️ Cloud & DevOps:**  
 ![AWS](https://skillicons.dev/icons?i=aws) ![GCP](https://skillicons.dev/icons?i=gcp) ![Docker](https://skillicons.dev/icons?i=docker) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![Vercel](https://skillicons.dev/icons?i=vercel) ![Nginx](https://skillicons.dev/icons?i=nginx)
@@ -79,7 +80,7 @@
 ### **Tools & Platforms:** 
 ![VSCode](https://skillicons.dev/icons?i=vscode) ![Intellijidea](https://skillicons.dev/icons?i=idea) ![Github](https://skillicons.dev/icons?i=github) ![Git](https://skillicons.dev/icons?i=git) ![Postman](https://skillicons.dev/icons?i=postman) ![Jest](https://skillicons.dev/icons?i=jest) ![Figma](https://skillicons.dev/icons?i=figma) ![Wordpress](https://skillicons.dev/icons?i=wordpress) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  /> 
 
-<br clear="both">
+<br clear="both"> -->
 
 ## 📊 GitHub Activity  
 
