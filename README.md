@@ -1,4 +1,4 @@
-# 🚀 Abhishek Prajapatt
+#  Abhishek Prajapatt
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Code+Crusher+%26+Bug+Destroyer;System+Builder+%26+Logic+Master" alt="Typing SVG" />
