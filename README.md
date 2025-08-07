@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
 </p>
 
-<table style="width:50%; border:none;">
+<table align="right" style="width:50%; border:none;">
   <tr>
-    <td style="width:100%; vertical-align:top; padding:10px;">
+    <td style="width:100%; vertical-align:top; padding:10px;" align="right">
       <p align="left">
         Hi!👋<br>
         I'm <b>Abhishek Prajapatt</b>, a <b>FSD</b> and <b>CP Coder</b> from <b>India</b>.<br><br>
@@ -21,7 +21,7 @@
         🤝 <b>Open to collab — let’s build.<br>
       </p>
     </td>
-    <td style="width:50%; vertical-align:top; padding:10px;" align="center">
+    <td style="width:50%; vertical-align:top; padding:10px;" align="left">
       <video widht="30%" src="https://github.com/user-attachments/assets/4580dbf4-3bc5-49f6-b08a-bff6dfff109d" autoplay loop muted playsinline style="width:50%; height:auto; border:none; border-radius:10px;"></video>
     </td>
   </tr>
