@@ -7,7 +7,7 @@
 
 <table style="width:50%; border:none;">
   <tr>
-    <td style="width:50%; vertical-align:top; padding:10px;">
+    <td style="width:100%; vertical-align:top; padding:10px;">
       <p align="left">
         Hi!👋<br>
         I'm <b>Abhishek Prajapatt</b>, a <b>FSD</b> and <b>CP Coder</b> from <b>India</b>.<br><br>
