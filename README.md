@@ -1,5 +1,5 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> </p>
-<p align="left">Hi Guys! 👋<br>I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Coder</b> from <b>India</b>. <br> 🌿 My WorkHub: <b>https://focusu.vercel.app</b><br>  🧘‍♂️ Expertise: <b>C/C++</b>, <b>Java</b> & <b>JavaScript</b><br>  🛠️ Passionate about writing <b>clean</b>, efficient, and <b>scalable code</b>.<br>  🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>  🧩 Problem-solving <b>enthusiast</b>, turning <b>logic</b> into code. <br> 🦁 <b>Proficient</b> in <b>Node.js</b> & <b>Java</b> <b>Full-Stack Development</b>.<br> 🤝 <b>Open</b> to <b>collaboration</b> on <b>projects—feel</b> free to <b>connect</b>. </p>
+<!-- <p align="right"> <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> </p>
+<p align="left">Hi Guys! 👋<br>I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Coder</b> from <b>India</b>. <br> 🌿 My WorkHub: <b>https://focusu.vercel.app</b><br>  🧘‍♂️ Expertise: <b>C/C++</b>, <b>Java</b> & <b>JavaScript</b><br>  🛠️ Passionate about writing <b>clean</b>, efficient, and <b>scalable code</b>.<br>  🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>  🧩 Problem-solving <b>enthusiast</b>, turning <b>logic</b> into code. <br> 🦁 <b>Proficient</b> in <b>Node.js</b> & <b>Java</b> <b>Full-Stack Development</b>.<br> 🤝 <b>Open</b> to <b>collaboration</b> on <b>projects—feel</b> free to <b>connect</b>. </p> -->
 
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
@@ -111,9 +111,19 @@
 
 ## 📊 GitHub Activity  
 
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekprajapatt&theme=github_dark" />
   
  <br clear="both"> 
+## 📊 Most Used Languages on GitHub
+  <table style="width:100%; border:none;">
+  <tr>
+    <td style="width:50%; vertical-align:top; padding:10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekprajapatt&theme=github_dark" />
+    </td>
+    <td style="width:50%; vertical-align:top; padding:10px;" align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprajapatt&layout=compact&langs_count=8&theme=tokyonight" />
+    </td>
+  </tr>
+</table>
  
 ## 🐍 GitHub Contribution Snake  
 
@@ -127,4 +137,5 @@
 <div align="center">
     <img align="center" alt="Coding Vibes" width="full" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 </div>
-<video src="https://github.com/user-attachments/assets/4580dbf4-3bc5-49f6-b08a-bff6dfff109d" autoplay />
+<!--
+<video src="https://github.com/user-attachments/assets/4580dbf4-3bc5-49f6-b08a-bff6dfff109d" autoplay /> -->
