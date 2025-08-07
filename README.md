@@ -1,14 +1,13 @@
-# 🦖 Abhishek Prajapatt
-
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
+</p>
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Code+Crusher+%26+Bug+Destroyer;System+Builder+%26+Logic+Master" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=e0e0e0&background=0D1117&center=true&vCenter=true&width=600&lines=Hii!👋;I'm+Abhishke+Prajapatt;Full+Stack+Developer;Competitive+Coder;Code+Crusher+%26+Bug+Destroyer;System+Builder+%26+Logic+Master" alt="Typing SVG" />
 </div>
 
-<div align="center">
+<!--<div align="center">
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20Views&color=00d9ff&style=for-the-badge" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/abhishekprajapatt?label=Followers&style=for-the-badge&color=00d9ff" alt="followers" />
-  <img src="https://img.shields.io/github/stars/abhishekprajapatt?label=Stars&style=for-the-badge&color=00d9ff" alt="stars" />
-</div>
+</div>-->
 
 ---
 
@@ -145,10 +144,10 @@ Projects:
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-p-801187293/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbhishekPr41787)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/abhishek_prax)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatiabhishek13988@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishekprajapatt/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://focusu.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://abhishek-g.vercel.app)
 
 </div>
 
