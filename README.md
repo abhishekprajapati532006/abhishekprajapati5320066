@@ -1,4 +1,4 @@
-#  Abhishek Prajapatt
+# 🦖 Abhishek Prajapatt
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Competitive+Programmer;Code+Crusher+%26+Bug+Destroyer;System+Builder+%26+Logic+Master" alt="Typing SVG" />
@@ -15,29 +15,33 @@
 ## 🎯 About Me
 
 ```javascript
-const abhishek = {
-    role: "Full Stack Developer & Competitive Programmer",
-    location: "India 🇮🇳",
-    workHub: "https://focusu.vercel.app",
-    philosophy: [
-        "Code. Crush. Dominate.", 
-        "Think. Scale. Destroy.", 
-        "Focus. Build. Break."
-    ],
-    currentFocus: "Building scalable systems and crushing algorithms",
-    lifeGoal: "Automate. Master. Repeat.",
-    openForCollab: true,
-    powerLevel: "🦖 GODZILLA MODE ACTIVATED"
-};
-```
+class DeveloperAbhishek {
+    constructor() {
+        this.name = "Abhishek Prajapatt";
+        this.role = "Full Stack Developer & Competitive Programmer";
+        this.location = "India 🇮🇳";
+        this.workHub = "https://focusu.vercel.app";
+        
+        this.code = ["C++", "Java", "JavaScript", "Python"];
+        this.architecture = ["Microservices", "System Design", "Cloud"];
+        
+        this.challenge = "Building scalable systems & crushing algorithms";
+        this.philosophy = "Code. Crush. Dominate.";
+    }
+    
+    getCurrentStatus() {
+        return {
+            learning: "Advanced System Design & Apache Kafka",
+            building: "Full-stack applications with modern tech",
+            destroying: "Complex algorithms daily 🦖",
+            collaborating: "Always open for awesome projects"
+        };
+    }
+}
 
-**💡 Quick Facts:**
-- 🔥 **Mastery Focus**: C++, Java, JavaScript - The Trinity of Power
-- 🛠️ **Building**: Full-stack applications with modern tech stacks  
-- 🧠 **Competitive Programming**: Solving complex algorithms daily
-- 🌱 **Currently Learning**: Advanced system design & cloud architecture
-- 🤝 **Collaboration**: Always open to building something awesome together
-- 🦖 **Destroyer Mode**: Breaking limitations, building empires
+const abhishek = new DeveloperAbhishek();
+console.log(abhishek.getCurrentStatus());
+```
 
 ---
 
@@ -156,7 +160,7 @@ Projects:
   
 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
-**🚀 Let's build something amazing together!**
+**🛠️ Let's build something amazing together!**
 
 </div>
 
