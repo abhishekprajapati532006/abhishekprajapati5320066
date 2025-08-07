@@ -5,23 +5,24 @@
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
 </p>
 
-<table style="width:100%; border:none;">
+<table style="width:50%; border:none;">
   <tr>
     <td style="width:50%; vertical-align:top; padding:10px;">
       <p align="left">
-        Hi Guys! 👋<br>
-        I'm <b>Abhishek Prajapatt</b>, a <b>Full-Stack Developer</b> and <b>Competitive Coder</b> from <b>India</b>.<br><br>
+        Hi!👋<br>
+        I'm <b>Abhishek Prajapatt</b>, a <b>FSD</b> and <b>CP Coder</b> from <b>India</b>.<br><br>
         🌿 My WorkHub: <b><a href="https://focusu.vercel.app">focusu.vercel.app</a></b><br>
-        🧘‍♂️ Expertise: <b>C/C++</b>, <b>Java</b> & <b>JavaScript</b><br>
-        🛠️ Passionate about writing <b>clean</b>, efficient, and <b>scalable code</b>.<br>
-        🌱 Lifelong <b>learner</b>, exploring new <b>technologies</b>.<br>
-        🧩 Problem-solving <b>enthusiast</b>, turning <b>logic</b> into code.<br>
-        🦁 <b>Proficient</b> in <b>Node.js</b> & <b>Java</b> <b>Full-Stack Development</b>.<br>
-        🤝 <b>Open</b> to <b>collaboration</b> on <b>projects</b> — feel free to <b>connect</b>.
+        🌱 <b>Code. Crush. Dominate.</b><br> 
+        🧘‍♂️ <b>Think. Scale. Destroy.</b><br>
+        🧠 <b>Systems. Logic. Power.</b><br>
+        🛠️ <b>Focus. Build. Break.</b><br>
+        🦁 <b>Automate. Master. Repeat.</b><br>
+        🧩 <b>Own. Everything. Relentless.</b><br>
+        🤝 <b>Open to collab — let’s build.<br>
       </p>
     </td>
     <td style="width:50%; vertical-align:top; padding:10px;" align="center">
-      <video src="https://github.com/user-attachments/assets/4580dbf4-3bc5-49f6-b08a-bff6dfff109d" autoplay loop muted playsinline style="width:100%; height:auto; border:none; border-radius:10px;"></video>
+      <video widht="30%" src="https://github.com/user-attachments/assets/4580dbf4-3bc5-49f6-b08a-bff6dfff109d" autoplay loop muted playsinline style="width:50%; height:auto; border:none; border-radius:10px;"></video>
     </td>
   </tr>
 </table>
@@ -109,24 +110,21 @@
 
 <br clear="both"> -->
 
-## 📊 GitHub Activity  
-
-  
- <br clear="both"> 
-## 📊 Most Used Languages on GitHub
+<br clear="both"> 
+<h2 align="left">📊 GitHub Activity </h2> 
   <table style="width:100%; border:none;">
   <tr>
     <td style="width:50%; vertical-align:top; padding:10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekprajapatt&theme=github_dark" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishekprajapatt&theme=github_dark" />
     </td>
     <td style="width:50%; vertical-align:top; padding:10px;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprajapatt&layout=compact&langs_count=8&theme=tokyonight" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprajapatt&layout=compact&langs_count=40&theme=github_dark" />
     </td>
   </tr>
 </table>
- 
-## 🐍 GitHub Contribution Snake  
 
+<br clear="both"> 
+<h2 align="left">🐍 GitHub Contribution Snake  </h2> 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake.svg" />
