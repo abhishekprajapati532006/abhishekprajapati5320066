@@ -17,11 +17,11 @@
 class DeveloperAbhishek {
     constructor() {
         this.name = "Abhishek Prajapatt";
-        this.role = "Full Stack Developer & Competitive Programmer";
+        this.role = "Full Stack Developer & Competitive Coder";
         this.location = "India 🇮🇳";
         this.workHub = "https://focusu.vercel.app";
         
-        this.code = ["C++", "Java", "JavaScript", "Python"];
+        this.mastary = ["C++", "Java"];
         this.architecture = ["Microservices", "System Design", "Cloud"];
         
         this.challenge = "Building scalable systems & crushing algorithms";
