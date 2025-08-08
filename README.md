@@ -49,10 +49,10 @@
 
 | **🔥 Problem** | **⚡ Solving** |
 |:---:|:---:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FAC02E?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/AbhishekPrajapatt)
-| [![CSES](https://img.shields.io/badge/CSES-3949AB?style=for-the-badge&logo=codeforces&logoColor=white)](https://cses.fi/user/AbhishekPrajapatt) | [![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/abhishekprajapati2006)
-| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhishekprajapati2006) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abhishekprajapati2006)
-| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prajapatiabhish6) | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishekprajapatt2006)
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FAC02E?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/O1Legend)
+| [![CSES](https://img.shields.io/badge/CSES-3949AB?style=for-the-badge&logo=codeforces&logoColor=white)](https://cses.fi/user/O1Legend) | [![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/O1Legend)
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/O1Legend) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/O1Legend)
+| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/O1Legend) | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/O1Legend)
 
 
 **💻 Coding Arsenal:**
@@ -91,6 +91,6 @@
   </a>
 </div>
 
-<p align="right"> 
+<p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
 </p>
