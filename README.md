@@ -4,9 +4,28 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=e6e6e6&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Abhishek+Prajapatt;Competitive+Coder+🔥;Full+Stack+Developer;Problem+Solver+💪" alt="Typing SVG" />
 </h1>
 
-- 📚 I'm a Computer Science student in <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="15"/> India.
+<!-- - 📚 I'm a Computer Science student in <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="15"/> India.
 - 🌱 I’m currently working on my Java skills
-- 😄 Fun fact: I flirt better with Git than with girls.
+- 😄 Fun fact: I flirt better with Git than with girls. -->
+
+```c++
+class AboutAbhishek {
+public:
+    string name = "Abhishek Prajapatt";
+    string role = "📚 I'm a Computer Science student";
+    string location = "🇮🇳 India";
+    string workhub = "🌿 https://focusu.vercel.app"
+    string focus = "🌱 Lifelong learner ";
+    string funFact = "😄 Git > Girls";
+
+    void intro() {
+        cout << "🔥 Code. Debug. Repeat.\n";
+        cout << "📚 Currently exploring Java & real-world projects\n";
+        cout << "🤝 Open to collaboration on projects—feel free to connect\n";
+    }
+};
+```
+
 
 <div align="center">
   <picture>
