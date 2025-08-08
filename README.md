@@ -98,13 +98,13 @@ public:
 ## 📫 Connect With Me
 <div align="center">
   
-[![Sponsor Me](https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/abhishekprajapatt)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://focusu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-p-801187293/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbhishekPr41787)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatiabhishek13988@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishekprajapatt/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://focusu.vercel.app)
 
+[![Sponsor Me](https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/abhishekprajapatt)
  <!-- <a href="https://github.com/abhishekprajapatt" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -119,7 +119,7 @@ public:
   </a> -->
 </div>
 
-
+##
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
 </p>
