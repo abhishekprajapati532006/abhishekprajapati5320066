@@ -3,8 +3,9 @@
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
 </p>
-
-# Hi there, I'm Abhishek Prajapatt 👋
+<h1 align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=e6e6e6&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Abhishek+Prajapatt;Competitive+Coder+🔥;Full+Stack+Developer;Problem+Solver+💪" alt="Typing SVG" />
+</h1>
 
 - 📚 I'm a Computer Science student in <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="15"/> India.
 - 🌱 I’m currently working on my Java skills
