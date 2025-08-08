@@ -6,7 +6,7 @@
 
 - 📚 I'm a Computer Science student in <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="15"/> India.
 - 🌱 I’m currently working on my Java skills
-- ⚡ Fun fact: I love spending my free time experimenting with tech and building things just for fun.
+- 😄 Fun fact: I flirt better with Git than with girls.
 
 <div align="center">
   <picture>
@@ -49,10 +49,11 @@
 
 | **🔥 Problem** | **⚡ Solving** |
 |:---:|:---:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/AbhishekPrajapatt) | ![CSES](https://img.shields.io/badge/-CSES-3949AB?style=flat-square) |
-|  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/abhishekprajapati2006) | ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/prajapatiabhish6) | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishekprajapatt2006) 
-| ![AtCoder](https://img.shields.io/badge/-AtCoder-1f8acb?style=flat-square) | 
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FAC02E?style=for-the-badge&logo=leetcode&logoColor=black)](https://www.leetcode.com/AbhishekPrajapatt)
+| [![CSES](https://img.shields.io/badge/CSES-3949AB?style=for-the-badge&logo=codeforces&logoColor=white)](https://cses.fi/user/AbhishekPrajapatt) | [![AtCoder](https://img.shields.io/badge/AtCoder-1F8ACB?style=for-the-badge&logo=atcoder&logoColor=white)](https://atcoder.jp/users/abhishekprajapati2006)
+| [![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/abhishekprajapati2006) | [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white)](https://www.codechef.com/users/abhishekprajapati2006)
+| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/prajapatiabhish6) | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishekprajapatt2006)
+
 
 **💻 Coding Arsenal:**
 - 🎯 **Daily Practice**: Competitive programming & DSA sharpening
@@ -69,15 +70,27 @@
 </table>
 
 ---
-
-### Where to find me
-
-<div>
-  <a href="https://github.com/piotrpdev" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://twitter.com/piotrpdev" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/piotrpdev" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://medium.com/@piotrpdev" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
+<h2>🏆 GitHub Trophies</h2>
+<div align="center" style="background-color:#1a1a1a; padding: 20px; border-radius: 10px;">
+  <img src="https://github-profile-trophy.vercel.app/?username=abhishekprajapatt&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=8" alt="GitHub Trophies">
 </div>
+
+
+<div align="center">
+  <a href="https://github.com/abhishekprajapatt" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/abhishek_prax" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abhishekprajapatt" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/abhishekprajapatt" target="_blank">
+    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+</div>
+
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
 </p>
