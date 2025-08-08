@@ -16,16 +16,17 @@
   <tr>
     <td style="width: 60%; vertical-align: top; padding: 20px;">
 
-<!---### **🎯 Crushing Problems On:**-->
+### **🎯 Crushing Problems On:**
 
 | **🔥 Problem** | **⚡ Solving** |
 |:---:|:---:|
-| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/AbhishekPrajapatt) | [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/abhishekprajapati2006) |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/prajapatiabhish6) | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishekprajapatt2006) |
-| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/prajapatiabhish6) | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishekprajapatt2006) |
+| [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://www.leetcode.com/AbhishekPrajapatt) | ![CSES](https://img.shields.io/badge/-CSES-3949AB?style=flat-square) |
+|  [![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)](https://codeforces.com/profile/abhishekprajapati2006) | ![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white) |
+| [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/prajapatiabhish6) | [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/abhishekprajapatt2006) 
+| ![AtCoder](https://img.shields.io/badge/-AtCoder-1f8acb?style=flat-square) | 
 
 **💻 Coding Arsenal:**
-- 🎯 **Daily Practice**: Algorithm solving & data structures
+- 🎯 **Daily Practice**: Competitive programming & DSA sharpening
 - 🏆 **Current Goal**: Master advanced algorithms
 - 🧠 **Algorithm Destroyer**: Breaking complex problems into simple logic
 
