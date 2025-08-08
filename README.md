@@ -4,7 +4,7 @@
 
 # Hi there, I'm Abhishek Prajapatt 👋
 
-- 📚 I'm a Computer Science student in  <img src="https://cdn-icons-png.flaticon.com/512/197/197529.png" width="13"/> India.
+- 📚 I'm a Computer Science student in <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="15"/> India.
 - 🌱 I’m currently working on my Java skills
 - ⚡ Fun fact: I love spending my free time experimenting with tech and building things just for fun.
 
