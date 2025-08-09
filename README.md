@@ -95,7 +95,7 @@ public:
 </div>
 
 
-## 📫 Connect With Me
+## 🤝 Connect With Me
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://focusu.vercel.app)
@@ -104,7 +104,9 @@ public:
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatiabhishek13988@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishekprajapatt/)
 
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/abhishekprajapatt)
 [![Sponsor Me](https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/abhishekprajapatt)
+
  <!-- <a href="https://github.com/abhishekprajapatt" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
   </a>
