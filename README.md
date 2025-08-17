@@ -1,4 +1,4 @@
-![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
+<!-- ![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=e6e6e6&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Abhishek+Prajapatt;Competitive+Coder+🔥;Full+Stack+Developer;Problem+Solver+💪" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 <!-- - 📚 I'm a Computer Science student in <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="15"/> India.
 - 🌱 I’m currently working on my Java skills
-- 😄 Fun fact: I flirt better with Git than with girls. -->
+- 😄 Fun fact: I flirt better with Git than with girls. 
 
 ```c++
 class AboutAbhishek {
@@ -25,7 +25,7 @@ public:
     }
 };
 ```
-
+ -->
 
 <div align="center">
   <picture>
@@ -56,6 +56,7 @@ public:
 
 ---
 
+<!--
 ---
 
 ## 🏆 Competitive Programming
@@ -118,8 +119,8 @@ public:
   </a>
   <a href="https://instagram.com/abhishekprajapatt" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> -->
-</div>
+  </a> 
+</div> -->
 
 ##
 <p align="left"> 
