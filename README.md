@@ -94,7 +94,7 @@ public:
   <img src="https://github-profile-trophy.vercel.app/?username=abhishekprajapatt&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=8" alt="GitHub Trophies">
 </div>
 
-
+-->
 ## 🤝 Connect With Me
 <div align="center">
   
@@ -106,20 +106,6 @@ public:
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/abhishekprajapatt)
 [![Sponsor Me](https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/abhishekprajapatt)
-
- <!-- <a href="https://github.com/abhishekprajapatt" target="_blank">
-    <img alt="GitHub" src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/abhishek_prax" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abhishekprajapatt" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/abhishekprajapatt" target="_blank">
-    <img alt="Instagram" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-  </a> 
-</div> -->
 
 ##
 <p align="left"> 
