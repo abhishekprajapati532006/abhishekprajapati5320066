@@ -41,7 +41,7 @@ public:
 </picture>
 </div>
 
-## 🧠 Things I code with
+### 🧠 Things I code with
 
 | **🔥 C++ System Programming** | **⚛️ MERN Full Stack** | **🌟 Next.js Full Stack** | **☕ Java Full Stack** | **☁️ Cloud & DevOps** | **🎨 Tools & Design** | **🧩 Others Basic** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -59,8 +59,6 @@ public:
 | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white) | ![Shadcn/UI](https://img.shields.io/badge/-Shadcn%2FUI-111827?style=flat-square&logo=tailwindcss&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white) | ![Slack](https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack&logoColor=white) | ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
 | ![Boost](https://img.shields.io/badge/-Boost-00599C?style=flat-square&logo=boost&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | ![JPA](https://img.shields.io/badge/-JPA-007396?style=flat-square&logo=java&logoColor=white) | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) | ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white) | ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
 | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java&logoColor=white) | | ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-
----
 
 <!--
 ---
@@ -102,9 +100,10 @@ public:
 </div>
 
 -->
-## 💖 Sponsor me
-<div align="center">
+### 💖 Sponsor me
 
+<div align="center">
+  
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/abhishekprajapatt)
 [![Sponsor Me](https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/abhishekprajapatt)
 
