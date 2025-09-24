@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
 </p> 
 
-# Hi there, I'm Abhishek 👋
+# Hi there, I'm Abhishek 🐰
 
 - 📚 I'm a Full Stack Developer CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India.
 - 🌱 I’m currently working on my Java skills.
@@ -41,7 +41,7 @@ public:
 </picture>
 </div>
 
-## Things I code with
+## 🧠 Things I code with
 
 | **🔥 C++ System Programming** | **⚛️ MERN Full Stack** | **🌟 Next.js Full Stack** | **☕ Java Full Stack** | **☁️ Cloud & DevOps** | **🎨 Tools & Design** | **🧩 Others Basic** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -102,12 +102,13 @@ public:
 </div>
 
 -->
-## 🤝 Connect With Me
+## 💖 Sponsor me
 <div align="center">
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/abhishekprajapatt)
 [![Sponsor Me](https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/abhishekprajapatt)
-  
+
+  <!--
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://focusu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-p-801187293/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbhishekPr41787)
