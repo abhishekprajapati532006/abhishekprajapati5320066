@@ -10,12 +10,13 @@
 </p> 
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hey+there,+I'm+Abhishek+🐰;Full+Stack+Developer+🧑‍💻;Competitive+Coder+🔥;" alt="Typing SVG" width="500" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Abhishek+🐰;Full+Stack+Developer+🧑‍💻;Competitive+Coder+🔥;" alt="Typing SVG" width="500" />
 </h1>
 
 - 📚 I'm a Full Stack Developer, CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India.
 - 🌱 I’m currently working on my Java skills.
-- 😄 Fun fact: I flirt better with Git than with girls. 
+- 😄 Fun fact: I flirt better with Git than with girls.
+
 <!--
 ```c++
 class AboutAbhishek {
