@@ -1,13 +1,17 @@
-![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
+<!--  ![MasterHead](https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=e6e6e6&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Abhishek+Prajapatt;Competitive+Coder+🔥;Full+Stack+Developer;Problem+Solver+💪" alt="Typing SVG" />
 </h1>
+-->
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
+</p> 
 
-- 📚 I'm a Computer Science student in <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="15"/> India.
-- 🌱 I’m currently working on my Java skills
+- 📚 I'm a Full Stack Developer CS Student in <img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="15"/> India.
+- 🌱 I’m currently working on my Java skills.
 - 😄 Fun fact: I flirt better with Git than with girls. 
-
+<!--
 ```c++
 class AboutAbhishek {
 public:
@@ -25,7 +29,7 @@ public:
     }
 };
 ```
-
+-->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake-dark.svg" />
@@ -34,7 +38,7 @@ public:
 </picture>
 </div>
 
-## 🛠️ Things I code with
+## Things I code with
 
 | **🔥 C++ System Programming** | **⚛️ MERN Full Stack** | **🌟 Next.js Full Stack** | **☕ Java Full Stack** | **☁️ Cloud & DevOps** | **🎨 Tools & Design** | **🧩 Others Basic** |
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
@@ -97,17 +101,17 @@ public:
 -->
 ## 🤝 Connect With Me
 <div align="center">
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/abhishekprajapatt)
+[![Sponsor Me](https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/abhishekprajapatt)
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://focusu.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-p-801187293/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbhishekPr41787)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatiabhishek13988@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishekprajapatt/)
-
-[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor%20on-GitHub-blue?logo=github&style=for-the-badge)](https://github.com/sponsors/abhishekprajapatt)
-[![Sponsor Me](https://img.shields.io/badge/Sponsor-Buy%20Me%20a%20Coffee-yellow?logo=buymeacoffee&style=for-the-badge)](https://buymeacoffee.com/abhishekprajapatt)
-
+<!-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/abhishekprajapatt/) -->
+<!--
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
-</p>
+</p> -->
 
