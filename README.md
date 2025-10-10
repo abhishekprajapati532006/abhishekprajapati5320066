@@ -6,7 +6,7 @@
 -->
 
 <p align="right"> 
-  <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
+  <img src="https://komarev.com/ghpvc/?username=abhishekprajapati532006&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapati532006" /> 
 </p> 
 
 <h1 align="center">
@@ -38,9 +38,9 @@ public:
 -->
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake.svg" />
-    <img alt="github-snake" src="https://github.com/abhishekprajapatt/abhishekprajapatt/blob/output/github-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhishekprajapati532006/abhishekprajapati532006/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhishekprajapati532006/abhishekprajapati532006/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/abhishekprajapati532006/abhishekprajapati532006/blob/output/github-snake.svg" />
 </picture>
 </div>
 
