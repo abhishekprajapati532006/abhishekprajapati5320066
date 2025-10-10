@@ -44,6 +44,7 @@ public:
 </picture>
 </div>
 
+<!--
 ### 🧠 Things I code with
 
 | **🔥 C++ System Programming** | **⚛️ MERN Full Stack** | **🌟 Next.js Full Stack** | **☕ Java Full Stack** | **☁️ Cloud & DevOps** | **🎨 Tools & Design** | **🧩 Others Basic** |
@@ -63,6 +64,7 @@ public:
 | ![Boost](https://img.shields.io/badge/-Boost-00599C?style=flat-square&logo=boost&logoColor=white) | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | ![JPA](https://img.shields.io/badge/-JPA-007396?style=flat-square&logo=java&logoColor=white) | ![LaTeX](https://img.shields.io/badge/-LaTeX-008080?style=flat-square&logo=latex&logoColor=white) | ![Microsoft Office](https://img.shields.io/badge/-Microsoft%20Office-D83B01?style=flat-square&logo=microsoftoffice&logoColor=white) | ![BeautifulSoup](https://img.shields.io/badge/-BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white)
 | ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) | ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)  | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) | ![JavaFX](https://img.shields.io/badge/-JavaFX-007396?style=flat-square&logo=java&logoColor=white) | | ![Swagger](https://img.shields.io/badge/-Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=black) | ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 
+-->
 <!--
 ---
 
