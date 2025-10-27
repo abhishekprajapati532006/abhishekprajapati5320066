@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=e6e6e6&center=true&vCenter=true&width=600&lines=Hey+There!+👋;I'm+Abhishek+Prajapatt;Competitive+Coder+🔥;Full+Stack+Developer;Problem+Solver+💪" alt="Typing SVG" />
 </h1>
--->
+
 
 <p align="right"> 
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapati532006&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapati532006" /> 
@@ -104,7 +104,7 @@ public:
   <img src="https://github-profile-trophy.vercel.app/?username=abhishekprajapatt&show_icons=true&theme=radical&no-frame=true&no-bg=false&margin-w=8" alt="GitHub Trophies">
 </div>
 
--->
+
 ### 💖 Sponsor me
 
 <div align="center">
