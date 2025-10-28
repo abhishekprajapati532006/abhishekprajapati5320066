@@ -162,7 +162,7 @@ class AboutAbhishek {
   </picture>
 </div>
 
-### 🛠️ Tech Stack
+### 🧠 Things I code with
 
 | **Frontend** | **Backend** | **Database** | **DevOps** | **Tools** |
 |:---:|:---:|:---:|:---:|:---:|
