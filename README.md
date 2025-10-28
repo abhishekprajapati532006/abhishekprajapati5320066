@@ -123,3 +123,87 @@ public:
   <img src="https://komarev.com/ghpvc/?username=abhishekprajapatt&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapatt" /> 
 </p> -->
 
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=abhishekprajapati532006&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekprajapati532006" />
+</p>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=700&lines=Hi+there,+I'm+Abhishek+🐰;Full+Stack+Developer+🧑‍💻;MERN+%26+Next.js+Enthusiast+🔥;" alt="Typing SVG" width="500" />
+</div>
+
+- 📚 I'm a Full Stack Developer, CS Student in &nbsp;<img src="https://cdn-icons-png.flaticon.com/512/197/197419.png" width="13"/> India.
+- 🌱 I’m currently diving deep into MERN stack and Next.js projects.
+- 😄 Fun fact: I flirt better with Git than with girls.
+
+```javascript
+class AboutAbhishek {
+  constructor() {
+    this.name = "Abhishek Prajapati";
+    this.role = "Full Stack Developer (MERN & Next.js)";
+    this.location = "🇮🇳 India";
+    this.workhub = "🌿 https://focusu.vercel.app";
+    this.focus = "🌱 Building scalable web apps";
+    this.funFact = "😄 Git > Girls";
+  }
+  
+  intro() {
+    console.log("🔥 Code. Deploy. Scale.\n");
+    console.log("📚 Currently building MERN & Next.js apps\n");
+    console.log("🤝 Open to collaboration—let's connect!\n");
+  }
+}
+```
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/abhishekprajapati532006/abhishekprajapati532006/blob/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/abhishekprajapati532006/abhishekprajapati532006/blob/output/github-snake.svg" />
+    <img alt="github-snake" src="https://github.com/abhishekprajapati532006/abhishekprajapati532006/blob/output/github-snake.svg" />
+  </picture>
+</div>
+
+### 🛠️ Tech Stack
+
+| **Frontend** | **Backend** | **Database** | **DevOps & Tools** |
+|:---:|:---:|:---:|:---:|
+| ![React](https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white) | ![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white) | ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) | ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) | ![JavaScript](https://img.shields.io/badge/-JavaScript-f0dc5c?style=flat-square&logo=javascript&logoColor=black) | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) | ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) |
+| ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) | ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white) | ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) |
+| ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) | ![npm](https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white) | ![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) | ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white) |
+| ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white) |  |  | ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white) |
+| ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white) |  |  | ![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) |
+| ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) |  |  |  |
+
+<h2 align="center">💻 MERN & Next.js Projects Spotlight</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abhishekprajapati532006&show_icons=true&theme=radical&locale=en" alt="abhishekprajapati532006" />
+</div>
+
+<h2 align="center">🔥 Top Languages</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishekprajapati532006&layout=compact&theme=radical" alt="abhishekprajapati532006" />
+</div>
+
+### 🌐 Connect with Me
+
+<div align="center">
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://focusu.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-p-801187293/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbhishekPr41787)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatiabhishek13988@gmail.com)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://focusu.vercel.app)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-p-801187293/)
+  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/AbhishekPr41787)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prajapatiabhishek13988@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FFA116&center=true&vCenter=true&width=300&lines=Thanks+for+visiting!+🚀;Let's+build+something+amazing!+💫" alt="Typing SVG" />
+</div>
